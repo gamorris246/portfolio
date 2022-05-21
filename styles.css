@@ -393,7 +393,7 @@
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17,0.6) 100%
         ),
-    url('/images/keyboard.jpg');
+    url('images/keyboard.jpg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -405,7 +405,7 @@
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17,0.6) 100%
         ),
-    url('/images/turtle.jpg');
+    url('images/turtle.jpg');
 }
 
 .services h2 {
